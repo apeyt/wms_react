@@ -81,7 +81,7 @@ export default function Sidebarfu() {
               !open && "scale-0"
             }`}
           >
-            WMS
+            HEHEHEEEEEE
           </h1>
         </div>
 
